@@ -1,6 +1,7 @@
 # Who is Kaan Ersoy?
 
 I am a lifetime student, blogger(a little bit) and a open-source lover💜. 
+
 Also dad of 
 
 - [slicer.fun](https://www.slicer.fun/) (an URL shortener)
