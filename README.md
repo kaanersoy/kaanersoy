@@ -9,7 +9,7 @@ Also dad of:
 - [GIPHIES](https://giphies-public.netlify.app/) (shows you popular GIFs of the day)
 
 My Blogs:
-[![kaanersoy.medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kaanersoy.medium.com/) 📚
+- [![kaanersoy.medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kaanersoy.medium.com/) 📚
 
 ## Contact
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
