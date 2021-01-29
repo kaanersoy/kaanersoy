@@ -2,7 +2,7 @@
 
 I am a lifetime student, blogger(a little bit) and a open-source lover💜. 
 
-Also dad of:
+Projects:
 
 - [slicer.fun](https://www.slicer.fun/) (an URL shortener)
 - [kaanersoy.site](https://kaanersoy.site) (personal portfolio) 😎
