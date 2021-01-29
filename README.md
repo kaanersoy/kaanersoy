@@ -8,7 +8,8 @@ Also dad of:
 - [kaanersoy.site](https://kaanersoy.site) (personal portfolio) 😎
 - [GIPHIES](https://giphies-public.netlify.app/) (shows you popular GIFs of the day)
 
-My Blogs: [![kaanersoy.medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kaanersoy.medium.com/) 📚
+My Blogs:
+[![kaanersoy.medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kaanersoy.medium.com/) 📚
 
 ## Contact
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
