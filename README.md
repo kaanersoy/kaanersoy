@@ -2,7 +2,7 @@
 
 I am a lifetime student, blogger(a little bit) and a open-source lover💜. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html)](https://github.com/kaanersoy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html&layout=compact)](https://github.com/kaanersoy)
 
 Projects:
 
