@@ -1,6 +1,6 @@
 # Who is Kaan Ersoy?
 
-I am a lifetime student, blogger(a little bit) and a open-source lover💜. 
+I am a lifetime student, blogger(lil bit) and a open-source lover💜. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html&layout=compact)](https://github.com/kaanersoy)
 
