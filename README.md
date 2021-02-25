@@ -11,7 +11,7 @@ Projects:
 - [GIPHIES](https://giphies-public.netlify.app/) (shows you popular GIFs of the day)
 - [tombala](https://tombala-delta.vercel.app/) (A giveaway generator using Youtube API)
 
-> Working on  [gifator](https://github.com/kaanersoy/gifator) (a chat app only allows GIF)
+> Working on  [gifator](https://github.com/kaanersoy/gifator) (a chat app allows you to talk with your friends using only GIFs.)
 
 My Blogs:
 - [![kaanersoy.medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kaanersoy.medium.com/) 📚
