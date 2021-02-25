@@ -19,5 +19,4 @@ Projects:
 
 E-mail: kaanersoy12@gmail.com
 
-My Blogs:
-  * [![kaanersoy.medium.com](https://img.shields.io/badge/@kaanersoy-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@username)](https://kaanersoy.medium.com/) 📚
+My Blogs: [![kaanersoy.medium.com](https://img.shields.io/badge/@kaanersoy-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@username)](https://kaanersoy.medium.com/) 📚
