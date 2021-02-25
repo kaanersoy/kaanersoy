@@ -14,7 +14,7 @@ Projects:
 > Working on  [gifator](https://github.com/kaanersoy/gifator) (a chat app allows you to talk with your friends using only GIFs. 🤯🤯)
 
 My Blogs:
-- [![kaanersoy.medium.com](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://kaanersoy.medium.com/) 📚
+[![kaanersoy.medium.com](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://kaanersoy.medium.com/) 📚
 
 ## Contact
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
