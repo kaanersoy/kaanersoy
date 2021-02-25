@@ -2,6 +2,8 @@
 
 I am a lifetime student, blogger(a little bit) and a open-source lover💜. 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy)](https://github.com/kaanersoy)
+
 Projects:
 
 - [slicer.fun](https://www.slicer.fun/) (an URL shortener)
