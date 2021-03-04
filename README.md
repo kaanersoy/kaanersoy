@@ -10,6 +10,7 @@ Projects:
 - [kaanersoy.site](https://kaanersoy.site) (personal portfolio) 😎
 - [GIPHIES](https://giphies-public.netlify.app/) (shows you popular GIFs of the day)
 - [tombala](https://tombala-delta.vercel.app/) (A giveaway generator using Youtube API)
+- [keddit](https://keddit.vercel.app/) (A reddit clone with Reddit open API)
 
 > Working on  [gifator](https://github.com/kaanersoy/gifator) (a chat app allows you to talk with your friends using only GIFs. 🤯🤯)
 
