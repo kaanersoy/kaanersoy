@@ -1,10 +1,10 @@
-# Who is Kaan Ersoy?
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html&layout=compact" />
+
+# Who is Kaan Ersoy?
 
 I am a lifetime student and a open-source lover💜. 
 
-Projects:
+## Projects:
 
 - [slicer.fun](https://www.slicer.fun/) (an URL shortener)
 - [kaanersoy.site](https://kaanersoy.site) (personal portfolio) 😎
