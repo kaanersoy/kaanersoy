@@ -1,8 +1,8 @@
 # Who is Kaan Ersoy?
 
-I am a lifetime student and a open-source lover💜. 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html&layout=compact" />
+
+I am a lifetime student and a open-source lover💜. 
 
 Projects:
 
