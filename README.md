@@ -3,7 +3,7 @@
 # Who is Kaan Ersoy?
 
 - Lifetime student 
-- javascript dev
+- Javascript developer
 - a Open-source lover💜 
 
 ## Projects 📚
