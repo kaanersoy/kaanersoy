@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html,css&layout=compact" />
 
-# Who is Kaan Ersoy?
+# Who is Kaan Ersoy⁉
 
 I am a lifetime student and a open-source lover💜. 
 
