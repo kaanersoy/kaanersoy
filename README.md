@@ -2,7 +2,9 @@
 
 # Who is Kaan Ersoy?
 
-I am a lifetime student and a open-source lover💜. 
+- Lifetime student 
+- javascript dev
+- a Open-source lover💜 
 
 ## Projects 📚
 
