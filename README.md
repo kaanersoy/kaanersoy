@@ -4,7 +4,7 @@
 
 I am a lifetime student and a open-source lover💜. 
 
-## Projects:
+## Projects📚:
 
 - [slicer.fun](https://www.slicer.fun/) (an URL shortener)
 - [kaanersoy.site](https://kaanersoy.site) (personal portfolio) 😎
@@ -12,7 +12,9 @@ I am a lifetime student and a open-source lover💜.
 - [tombala](https://tombala-delta.vercel.app/) (A giveaway generator using Youtube API)
 - [keddit](https://keddit.vercel.app/) (A reddit clone with Reddit open API)
 
-> Working on  [gifator](https://github.com/kaanersoy/gifator) (a chat app allows you to talk with your friends using only GIFs. 🤯🤯)
+ ## Working on:
+ 
+ > in a little retirement 💤
 
 ## Contact
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
@@ -22,6 +24,4 @@ E-mail: kaanersoy12@gmail.com
 
 My Blogs: [![kaanersoy.medium.com](https://img.shields.io/badge/@kaanersoy-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@username)](https://kaanersoy.medium.com/) 📚
 
- ## Working on:
- 
- > in a little retirement 💤
+
