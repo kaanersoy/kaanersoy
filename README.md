@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html,css,ruby,hack&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html,css,ruby,hack,shell&layout=compact" />
 
 # Who is Kaan Ersoy?
 
