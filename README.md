@@ -4,7 +4,7 @@
 
 - Lifetime student 
 - Javascript developer
-- a Open-source lover💜 
+- An open-source lover💜 
 
 ## Projects 📚
 
