@@ -9,10 +9,9 @@
 ## Projects 📚
 
 - [slicer.fun](https://www.slicer.fun/) (an URL shortener)
-- [kaanersoy.site](https://kaanersoy.site) (personal portfolio) 😎
+- [Twitter Clone](https://cwitter-demo.vercel.app/) (just a twitter clone 😎)
 - [GIPHIES](https://giphies-public.netlify.app/) (shows you popular GIFs of the day)
 - [tombala](https://tombala-delta.vercel.app/) (A giveaway generator using Youtube API)
-- [keddit](https://keddit.vercel.app/) (A reddit clone with Reddit open API)
 
  ## Working on 💻
  
