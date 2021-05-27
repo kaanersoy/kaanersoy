@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaanersoy&hide=java,html,css,ruby,hack,shell&layout=compact" />
 
 # Who is Kaan Ersoy?
 
@@ -6,16 +5,9 @@
 - Javascript developer
 - An open-source lover💜 
 
-## Projects 📚
-
-- [slicer.fun](https://www.slicer.fun/) (an URL shortener)
-- [Twitter Clone](https://cwitter-demo.vercel.app/) (just a twitter clone 😎)
-- [GIPHIES](https://giphies-public.netlify.app/) (shows you popular GIFs of the day)
-- [tombala](https://tombala-delta.vercel.app/) (A giveaway generator using Youtube API)
-
  ## Working on 💻
  
- > in a little retirement 💤
+[hit-the-wall](https://github.com/kaanersoy/hit-the-wall)
 
 ## Contact ☎
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
