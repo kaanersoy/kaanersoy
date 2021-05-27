@@ -1,11 +1,9 @@
 
 # Who is Kaan Ersoy?
 
-- Lifetime student 
-- Javascript developer
-- An open-source lover💜 
+I am a developer that loves `JavaScript` very much. I really like the developing open-source projects, some of these: [Slicer(URL Shortener)](https://github.com/kaanersoy/slicer-fun), [a Twitter clone](https://github.com/kaanersoy/twitter-clone), [tombala (a giveaway app)](https://github.com/kaanersoy/tombala)...
 
- ## Working on 💻
+ ## Now norking on 💻
  
 [hit-the-wall](https://github.com/kaanersoy/hit-the-wall)
 
