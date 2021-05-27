@@ -7,7 +7,7 @@ Livin in: **Eskişehir, Turkey**
 
  ## Now norking on 💻
  
-[hit-the-wall](https://github.com/kaanersoy/hit-the-wall)
+[Hit The Wall](https://github.com/kaanersoy/hit-the-wall) / a Supabase (Firebase alternative) integration example with Vue.js
 
 ## Contact ☎
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
