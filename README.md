@@ -1,9 +1,9 @@
 
-# Who is *Kaan Ersoy?*
+# Who is **Kaan Ersoy?**
 
-I am a developer that loves *JavaScript* very much. I really like the developing open-source projects, some of these: [Slicer(URL Shortener)](https://github.com/kaanersoy/slicer-fun), [a Twitter clone](https://github.com/kaanersoy/twitter-clone), [tombala (a giveaway app)](https://github.com/kaanersoy/tombala).
+I am a developer that loves **JavaScript** very much. I really like the developing open-source projects, some of these: [Slicer(URL Shortener)](https://github.com/kaanersoy/slicer-fun), [a Twitter clone](https://github.com/kaanersoy/twitter-clone), [tombala (a giveaway app)](https://github.com/kaanersoy/tombala).
 
-Livin in: *Eskişehir, Turkey*
+Livin in: **Eskişehir, Turkey**
 
  ## Now norking on 💻
  
