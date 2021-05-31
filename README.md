@@ -5,9 +5,11 @@ I am a developer that loves **JavaScript** very much. I really like the developi
 
 Livin in: **Eskişehir, Turkey**
 
- ## Now norking on 💻
+### Now norking on 💻
  
-[Hit The Wall](https://github.com/kaanersoy/hit-the-wall) / a Supabase (Firebase alternative) integration example with Vue.js
+[Hit The Wall](https://github.com/kaanersoy/ejs-admin-boilerplate)
+
+> a Static website boilerplate with Admin control panel.
 
 ## Contact ☎
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
