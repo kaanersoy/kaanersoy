@@ -7,7 +7,7 @@ Livin in: **Eskişehir, Turkey**
 
 ### Now norking on 💻
  
-[Hit The Wall](https://github.com/kaanersoy/ejs-admin-boilerplate)
+[EJS Admin Boilerplate](https://github.com/kaanersoy/ejs-admin-boilerplate)
 
 > a Static website boilerplate with Admin control panel.
 
