@@ -7,9 +7,9 @@ Living in: **Eskişehir, Turkey**
 
 ### Now norking on 💻
  
-[EJS Admin Boilerplate](https://github.com/kaanersoy/ejs-admin-boilerplate)
+[Contenido](https://github.com/kaanersoy/) (Private repo for now)
 
-> a Static website boilerplate with Admin control panel.
+> A content management platform for developers.
 
 ## Contact ☎
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
