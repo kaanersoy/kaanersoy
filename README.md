@@ -7,7 +7,7 @@ Living in: **Eskişehir, Turkey**
 
 ### Now norking on 💻
  
-[Contenido](https://github.com/kaanersoy/) (Private repo for now)
+[Contenido](https://github.com/kaanersoy/contenido) (Private repo for now)
 
 > A content management platform for developers.
 
