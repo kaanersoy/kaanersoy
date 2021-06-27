@@ -7,9 +7,9 @@ Living in: **Eskişehir, Turkey**
 
 ### Now norking on 💻
  
-[Contenido](https://github.com/kaanersoy/contenido) (Private repo for now)
+[PerfAnalytics](https://github.com/kaanersoy/perf-analytics)
 
-> A content management platform for developers.
+> Performance analyzing tool & dashboard 
 
 ## Contact ☎
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
