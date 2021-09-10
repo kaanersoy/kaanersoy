@@ -5,11 +5,9 @@ I am a developer that loves **JavaScript** very much. I really like the developi
 
 Living in: **Eskişehir, Turkey**
 
-### Now norking on 💻
+### Now working on 💻
  
-[PerfAnalytics](https://github.com/kaanersoy/perf-analytics)
-
-> Performance analyzing tool & dashboard 
+-
 
 ## Contact ☎
 [![Kaan Ersoy](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-ersoy/)
