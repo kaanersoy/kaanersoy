@@ -12,4 +12,4 @@ Living in: **Eskişehir, Turkey**
 
 E-mail: kaanersoy12@gmail.com
 
-My Blogs: [kaanersoy.medium.com](kaanersoy.medium.com) 📚
+My Blogs: [kaanersoy.medium.com](https://kaanersoy.medium.com) 📚
